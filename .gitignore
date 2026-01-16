@@ -72,3 +72,7 @@ coverage/
 # React Native
 .expo/
 .expo-shared/
+
+# Logs
+logs
+*.log
